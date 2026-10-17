@@ -13,9 +13,9 @@ num2 = int(input('Digite o segundo número: '))
 print("[", end = "")
 
 for contagem in range(num1, num2 + 1, 1):
-    print(contagem, end = " ")
+    print(contagem, end = "")
 
-    if num2 < num1:
+    if contagem < num2:
         print(end = ", ")
 
 print("]", end = "")

@@ -25,7 +25,7 @@ else:
         salario_reajustado += salario_minimo
         print('Você receberá um bônus de salário mínimo!')
 
-    elif faltas == 1:
+    elif qtd_faltas == 1:
         bonus = 500
         salario_reajustado += 500
         print('Seu bônus foi de 500 reais')
