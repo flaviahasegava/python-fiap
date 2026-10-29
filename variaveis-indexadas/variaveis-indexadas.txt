@@ -6,3 +6,7 @@ VETOR (TIPO DE ARRAY)
 
   - Índice (posição do elemento/endereço/conteúdo) sempre comeca pelo 0
   - Dado é correspondente ao índice
+
+LISTAS
+  - Os dados nela inseridos podem ser heterogêneos (tipos diferentes de dados, int, float, string ou boolean)
+  - O seu tamanho é dinâmico (pode mudar no decorrer do programa)
