@@ -1,0 +1,8 @@
+VARIÁVEIS INDEXADAS (ARRAYS)
+  Guarda várias informações na mesma variável
+
+VETOR (TIPO DE ARRAY)
+  Vetor é uma array de uma dimensão só (uma linha única de valores na memória, onde cada valor tem sua posição índice 0, 1, 2, 3...)
+
+  - Índice (posição do elemento/endereço/conteúdo) sempre comeca pelo 0
+  - Dado é correspondente ao índice
