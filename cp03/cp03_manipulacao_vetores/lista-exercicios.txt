@@ -1,0 +1,61 @@
+LISTA DE EXERCÍCIOS
+==================================================================================================
+
+Considere o vetor v = [45, -89, 32, -12, 33] e faça os seguintes programas: 
+
+1. Fazer um programa que exiba na tela o primeiro e o último elemento do vetor. 
+     >> 45 33 
+
+
+2. Fazer um programa que exiba os elementos cujos índices sejam pares. 
+     >> -89 -12 
+
+
+3. Fazer um programa que peça um valor ao usuário e verifique se ele existe ou não no vetor. 
+     >> Valor: 32 
+     >> O valor 32 está no vetor 
+
+
+4. Fazer um programa que ordene os elementos do vetor. 
+     >> -89 -12 32 33 45 
+
+
+5. Fazer um programa que peça um valor ao usuário e conte quanto dele há no vetor.
+     Valor: 32 
+     >> Há um elemento 32 no vetor
+
+
+
+==================================================================================================
+
+
+
+Considere o valor dos vetores abaixo para fazer os próximos exercícios: 
+    v1 = [41, 72, 39, 4, 35] 
+    v2 = [0, 0, 0, 0, 0] 
+
+
+6. Fazer programa que copie os elementos do vetor v1 em v2. 
+     >>  41, 72, 39, 4, 35 
+     >> 45 33 
+
+
+7. Fazer um programa que copie os elementos invertidos do vetor v1 em v2, ou seja, o primeiro elemento de v1 será o último de v2. 
+     >> [41, 72, 39, 4, 35] 
+     >> [35, 4, 39, 72, 41] 
+
+
+8. Fazer programa que ordene em ordem decrescente o vetor.
+     >> [72, 41, 39, 35, 4] 
+
+
+9. Fazer um programa que conte quanto elementos estão acima da média.
+     x = conta_acima_media(v1) 
+     >> x valerá 3 
+
+
+10. Fazer um programa que retorne o elemento de maior valor do vetor. 
+     x = maior_elemento(v1) 
+     >> x valerá 72 
+
+==================================================================================================
